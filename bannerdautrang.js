@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://bit.ly/2LQqJje' target='_blank'><img src='https://lh4.googleusercontent.com/-Lx-8Qcc2gwI/W2QExugiXXI/AAAAAAAACXM/whvp4u6bozcmXsDMovOrVcHmadcMZUX8wCLcBGAs/s640/a5127b465ba2bafce3b3.jpg' width='500px'/><br/>Đất Nền Mặt Tiền Đường Hòa Bình</a>.Shophouse Richstar Novaland. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://bit.ly/2LQqJje' target='_blank'><img src='https://lh4.googleusercontent.com/-Lx-8Qcc2gwI/W2QExugiXXI/AAAAAAAACXM/whvp4u6bozcmXsDMovOrVcHmadcMZUX8wCLcBGAs/s640/a5127b465ba2bafce3b3.jpg' width='600px'/><br/>Đất Nền Mặt Tiền Đường Hòa Bình</a>.Shophouse Richstar Novaland. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
