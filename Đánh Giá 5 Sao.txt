@@ -1,0 +1,11 @@
+<div id="snippet-box" style="background:#f4f4f4; color:#000000; border:1px solid #ACACAC;"><div class="snippet-title" style="background:#dbdbdb; color:#000000; border-bottom:1px solid #ACACAC;">Thông tin</div><div class="snippet-markup" itemscope itemtype="http://data-vocabulary.org/Review">
+<div class='snippet-label'>Đánh giá bởi</div> <div class='snippet-data'><span itemprop='reviewer'>3.265 thành viên</span></div>
+<div class='snippet-label'>Ngày tháng</div><div class='snippet-data'> <time itemprop='dtreviewed' datetime='2015-07-27'>2015-07-27</time></div>
+<div class='snippet-label'>Chuyên mục</div><div class='snippet-data'> <span itemprop='itemreviewed'>Thủ thuật PC</span></div>
+<div class='snippet-label'>Đánh giá</div><div class='snippet-data'> <span class='rating-value' itemprop='rating'>5</span>
+<span class='star-img'><img src="https://lh3.googleusercontent.com/-WVyjixxYPx4/WQs3KfWw1GI/AAAAAAAABRM/b8XqEBQXnt8simV6-Pv2QyIMRCJGEqB8ACLcB/h120/1star.png">
+<img src="https://lh3.googleusercontent.com/-WVyjixxYPx4/WQs3KfWw1GI/AAAAAAAABRM/b8XqEBQXnt8simV6-Pv2QyIMRCJGEqB8ACLcB/h120/1star.png">
+<img src="https://lh3.googleusercontent.com/-WVyjixxYPx4/WQs3KfWw1GI/AAAAAAAABRM/b8XqEBQXnt8simV6-Pv2QyIMRCJGEqB8ACLcB/h120/1star.png">
+<img src="https://lh3.googleusercontent.com/-WVyjixxYPx4/WQs3KfWw1GI/AAAAAAAABRM/b8XqEBQXnt8simV6-Pv2QyIMRCJGEqB8ACLcB/h120/1star.png">
+<img src="https://lh3.googleusercontent.com/-WVyjixxYPx4/WQs3KfWw1GI/AAAAAAAABRM/b8XqEBQXnt8simV6-Pv2QyIMRCJGEqB8ACLcB/h120/1star.png"></span></div></div>
+</div><div style='clear:both;'></div>
