@@ -236,7 +236,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://bit.ly/2LQqJje' target='_blank'><img src='<div style='background-image: url(https://2.bp.blogspot.com/-3HMsOb32PJk/XEcF-Hx828I/AAAAAAAAAGo/_5xiDWXejnIt-rBSJf-hH3ekW-ilDGslACLcBGAs/s1600/7.jpg); background-repeat: no-repeat; padding:10px 20px;text-indent:10px;text-align:left;color: red;'>  
+			$("#myModal").html("<a href='https://bit.ly/2LQqJje' target='_blank'><div style='background-image: url(https://2.bp.blogspot.com/-3HMsOb32PJk/XEcF-Hx828I/AAAAAAAAAGo/_5xiDWXejnIt-rBSJf-hH3ekW-ilDGslACLcBGAs/s1600/7.jpg); background-repeat: no-repeat; padding:10px 20px;text-indent:10px;text-align:left;color: red;'>  
 <center>
                 
  <!--Dang ky tu van-->
@@ -275,7 +275,7 @@ Cảm ơn quý khách đã gởi yêu cầu! Chúng tôi sẽ sớm liên lạc 
 
             
 
-        </div>' width='600px'/><br/>Đất Nền Mặt Tiền Đường Hòa Bình</a>.Shophouse Richstar Novaland. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+        </div> width='600px'/><br/>Đất Nền Mặt Tiền Đường Hòa Bình</a>.Shophouse Richstar Novaland. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
